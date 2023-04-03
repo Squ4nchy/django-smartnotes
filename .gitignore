@@ -1,0 +1,5 @@
+django_env
+db*
+.DS_Store
+*/migrations/0*py
+*__pycache__
